@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @immiranda
+- 👋 Hi, I’m Ngaatendwe Manyika
 - 🌱 Java; OCaml; Python
 - 📫 How to reach me : nmanyika@seas.upenn.edu
 - 😄 Pronouns: she/her
