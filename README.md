@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @immiranda
-- 🌱 I’m currently learning python and java
+- 🌱 Java; OCaml; Python
 - 📫 How to reach me : nmanyika@seas.upenn.edu
 - 😄 Pronouns: she/her
 
